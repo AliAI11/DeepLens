@@ -1,0 +1,5 @@
+,specificity,plausibility,grounding,overall
+zero_shot,3.4,4.4,2.74,3.5133333333333336
+cot,3.74,4.75,3.28,3.9233333333333333
+few_shot,2.95,4.06,2.43,3.1466666666666665
+attention_grounded,3.94,4.85,4.09,4.293333333333333

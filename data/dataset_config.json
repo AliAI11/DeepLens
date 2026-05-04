@@ -1,0 +1,18 @@
+{
+  "source_dataset": "deepfakesMSU/NTIRE-RobustAIGenDetection-train",
+  "shards_used": [
+    "shard_0"
+  ],
+  "image_size_target": 224,
+  "subsample_size": 25000,
+  "split_ratios": {
+    "train": 0.8,
+    "val_internal": 0.1,
+    "test": 0.1
+  },
+  "label_map": {
+    "0": "real",
+    "1": "fake"
+  },
+  "note": "official val set has no labels; we use our test split for final eval"
+}
