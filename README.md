@@ -96,10 +96,6 @@ DeepLens/
 │   ├── explanations.csv
 │   ├── judge_qwen.csv
 │   └── results_qwen.csv
-├── proposal/
-│   └── NLP_ProjectProposal.pdf
-└── presentation/
-    └── DeepLens_slides.pdf
 ```
 
 Built as a final project for **Virginia Tech CS 5624 – Natural Language Processing (Spring 2026)** by [Kean Jaldin Guzman](mailto:keanjg28@vt.edu) and [Afeef Ali](mailto:aali11@vt.edu).
